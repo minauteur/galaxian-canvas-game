@@ -1,3 +1,5 @@
+This is a fork of Steven Lambert's excellent tutorial for creating a Galaxian clone with canvas. It will be used here as the basis for a block-breaker/space invaders mashup with an added "spin" mechanic for practicing implementation of a simple physics engine.
+
 Title: galaxian-canvas-game<br>
 Author: Steven Lambert<br>
 Website: http://blog.sklambert.com/galaxian-html5-game/<br>
